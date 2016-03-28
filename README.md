@@ -1,4 +1,8 @@
 # Sapna4NetLogo
+Landing_Page.png
+This is a mockup for the landing page of NetLogo.
+
+Projet.zip
 Unzip the files. Fine "index.html". Open it with any browser of decent version. Forget not to have internet connection while doing this.The links of the contacts are not functional yet since it needs hosting the site. 
 The content is intended for putting up an example of User Interface desinging.
 
